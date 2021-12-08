@@ -1,0 +1,7 @@
+faiss-cpu
+re
+numpy
+sqlite3
+urllib
+tensorflow_hub
+tensorflow_text
